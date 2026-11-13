@@ -1,0 +1,5 @@
+android-port-test/build-*/
+android-port-test/native-build-*/
+android-port-test/.cxx/
+*.keystore
+*.idsig
